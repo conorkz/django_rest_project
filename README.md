@@ -1,1 +1,1 @@
-# django_rest_project
+# Web API project on django rest framework
